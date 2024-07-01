@@ -15,7 +15,7 @@ body{
   margin: 0 auto;
 }
 @media (min-width: 768px) {
-  .footer__contenido {
+  .footer-contenido {
       flex-direction: row;
   }
 }
