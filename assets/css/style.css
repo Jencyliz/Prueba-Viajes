@@ -1,23 +1,23 @@
+.navbar-brand{
+  text-shadow: #000;
+  width: 80px;
+}
 body{
   margin: 0;
   padding: 0;
   border-color: #000;
   background-color: #000;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 .footer-contenido {
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-direction: column;
-
   width: 70%;
   margin: 0 auto;
-}
-@media (min-width: 768px) {
-  .footer-contenido {
-      flex-direction: row;
-  }
+ flex-direction: row;
+ 
 }
 .redes-sociales i {
   vertical-align: middle;
